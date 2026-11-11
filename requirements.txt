@@ -1,0 +1,2 @@
+# Tkinter is generally included with Python and is not installed via pip.
+# Add third-party packages here only if the project later requires them.
